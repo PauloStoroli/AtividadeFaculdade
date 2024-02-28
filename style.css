@@ -1,0 +1,23 @@
+body {
+
+    background-color: #adadad;
+
+  }
+
+  footer {
+
+    background-color: #28a745;
+
+    color: #ffffff;
+
+    padding: 20px 0;
+
+    text-align: center;
+
+    position: fixed;
+
+    bottom: 0;
+
+    width: 100%;
+
+  }
